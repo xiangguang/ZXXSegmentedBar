@@ -1,0 +1,2 @@
+# ZXXSegmentedBar
+Customer Segmented bar
